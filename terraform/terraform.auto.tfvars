@@ -1,0 +1,5 @@
+resource_group_name = "DO_Group_AI"
+location            = "East US"
+vm_name             = "devops-webServer"
+admin_username      = "AhmedPiro"
+admin_ssh_public_key = "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIJ76TKsZEx0nHK8ruhgUECglCC+rOKRVIKYF6zTjXg3z ai201@DESKTOP-143NMLO"
